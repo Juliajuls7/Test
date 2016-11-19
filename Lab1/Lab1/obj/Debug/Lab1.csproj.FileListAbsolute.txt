@@ -1,1 +1,10 @@
 C:\Users\Аня.DESKTOP-QHAB7E5\Documents\GitHub\Test\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Аня.DESKTOP-QHAB7E5\Documents\GitHub\Test\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Аня.DESKTOP-QHAB7E5\Documents\GitHub\Test\Lab1\Lab1\obj\Debug\Lab1.frmAbout.resources
+C:\Users\Аня.DESKTOP-QHAB7E5\Documents\GitHub\Test\Lab1\Lab1\obj\Debug\Lab1.frmMain.resources
+C:\Users\Аня.DESKTOP-QHAB7E5\Documents\GitHub\Test\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Аня.DESKTOP-QHAB7E5\Documents\GitHub\Test\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+C:\Users\Аня.DESKTOP-QHAB7E5\Documents\GitHub\Test\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Аня.DESKTOP-QHAB7E5\Documents\GitHub\Test\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Аня.DESKTOP-QHAB7E5\Documents\GitHub\Test\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Аня.DESKTOP-QHAB7E5\Documents\GitHub\Test\Lab1\Lab1\obj\Debug\Lab1.pdb
